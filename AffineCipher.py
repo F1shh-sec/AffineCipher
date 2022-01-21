@@ -1,5 +1,5 @@
 """
-Author: George Link
+Author: F1shh-sec
 """
 
 def main():
